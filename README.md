@@ -1,90 +1,79 @@
 <div align="center">
 
-<!-- Animated typing intro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Lasandi%20Mihara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Sri%20Lanka&descAlignY=58&descSize=20" alt="header banner" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lasandi+Mihara+%F0%9F%91%8B;Software+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Learning+Cloud+%26+NILM+%E2%98%81%EF%B8%8F;Open+to+Software+Dev+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2A5298&center=true&vCenter=true&width=560&lines=Building+clean%2C+practical+software;Exploring+Cloud+%26+Smart+Energy+(NILM);Open+to+Software+Dev+Internships" alt="Typing SVG"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=miharakgl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="miharakgl profile views" />
+<br/>
+
+<a href="https://www.linkedin.com/in/mihara-kandawela-9679752b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2A5298?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@lasandimihara2" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:lasandimihara2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=miharakgl&label=Profile+Views&color=2A5298&style=flat-square" alt="profile views"/>
 
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## About
 
-- 🌱 Currently learning **Cloud Application Development** & **NILM (Non-Intrusive Load Monitoring)**
-- 🤝 Looking for a **Software Development Internship**
-- 💼 All my projects & achievements: [LinkedIn — Mihara Kandawela](https://www.linkedin.com/in/mihara-kandawela-9679752b1)
-- ✍️ I write on [Medium](https://medium.com/@lasandimihara2)
-- 📫 Reach me at **lasandimihara2@gmail.com**
+Software developer from Sri Lanka, currently exploring **Cloud Application Development** and **NILM (Non-Intrusive Load Monitoring)**. I like turning ideas into working products and writing about what I learn along the way.
+
+Currently open to **Software Development internships** — feel free to reach out.
 
 <br/>
 
-## 🌐 Connect With Me
+## Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mihara-kandawela-9679752b1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@lasandimihara2" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="mailto:lasandimihara2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<!-- Update or remove the two below once you confirm your real handles -->
-<a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,dart" alt="languages"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,androidstudio" alt="frontend"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Backend, Data & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,mongodb,cassandra,aws,azure,docker,git" alt="backend and cloud"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,dart,flutter,html,css,nodejs,mysql,sqlite,mongodb,aws,azure,docker,git,androidstudio,cassandra" alt="Skills" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miharakgl&show_icons=true&theme=tokyonight&count_private=true" alt="miharakgl's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miharakgl&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miharakgl&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=miharakgl&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=2A5298&icon_color=2A5298&text_color=333333" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miharakgl&layout=compact&hide_border=true&theme=default&title_color=2A5298&text_color=333333" alt="Top languages" height="165"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miharakgl&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miharakgl&hide_border=true&background=FFFFFF00&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" alt="GitHub streak"/>
+
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<!--START_SECTION:snake-->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/miharakgl/miharakgl/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-<!--END_SECTION:snake-->
-
-<br/>
-
-### 📝 Latest Blog Posts
+## Recent Writing
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" alt="footer banner" width="100%"/>
 </div>
