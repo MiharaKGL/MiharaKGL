@@ -59,10 +59,10 @@ Currently open to **Software Development internships** — feel free to reach ou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miharakgl&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=2A5298&icon_color=2A5298&text_color=333333" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miharakgl&layout=compact&hide_border=true&theme=default&title_color=2A5298&text_color=333333" alt="Top languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=miharakgl&show_icons=true&hide_border=true&count_private=true&title_color=2A5298&icon_color=2A5298&text_color=333333" alt="GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miharakgl&layout=compact&hide_border=true&title_color=2A5298&text_color=333333" alt="Top languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miharakgl&hide_border=true&background=FFFFFF00&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=miharakgl&hide_border=true&background=FFFFFF00&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" alt="GitHub streak"/>
 
 </div>
 
