@@ -1,0 +1,27 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at midnight UTC — change the cron expression if you want a different frequency
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v2
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://medium.com/feed/@lasandimihara2"
+          max_post_count: 2
