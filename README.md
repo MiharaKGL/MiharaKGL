@@ -70,6 +70,8 @@ Currently open to **Software Development internships** — feel free to reach ou
 
 ## Recent Writing
 <!-- BLOG-POST-LIST:START -->
+- [From Data Import to Deployment: Complete Classification Pipeline with Azure ML Designer using UCI…](https://medium.com/@lasandimihara2/from-data-import-to-deployment-complete-classification-pipeline-with-azure-ml-designer-using-uci-6cbe34e53448?source=rss-168f4b74f548------2)
+- [Hosting a File Upload Website on Azure Linux VM with Blob Storage](https://medium.com/@lasandimihara2/hosting-a-file-upload-website-on-azure-linux-vm-with-blob-storage-56a09c91263d?source=rss-168f4b74f548------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
